@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6hw44n6000609l6u40812vs/stats?cursusId=21&coalitionId=66" alt="cbonilla's 42 stats" /></a>
+-->
